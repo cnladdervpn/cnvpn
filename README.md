@@ -14,7 +14,9 @@
 
 **Windows端地址下载**：<a rel="nofollow noopener" href="https://vps007.top/download/ladder.exe" target="_blank"> Windows 端</a>
 
-**购买页面 **：<a rel="nofollow noopener" href="https://vps007.top/index.html#purchase" target="_blank"> 购买页面，需要下载手机端后用手机端扫码登录网页进行购买（当然也可以直接在手机端进行购买，不过网页端经常时不时会有些优惠哦） </a>
+**购买页面 **：<a rel="nofollow noopener" href="https://vps007.top/index.html#purchase" target="_blank"> 购买页面 </a>，需要下载手机端后用手机端扫码登录网页进行购买（当然也可以直接在手机端进行购买，不过网页端经常时不时会有些优惠哦） 目前价格是大概一天一块钱，年票的话更便宜。这个价格不限流量真的是良心价啦。
+
+如果使用或者购买途中有任何问题都可以直接在网页或者应用里左下角小窗口跟客服联系的，客服回复都很及时的！
 
 >**目前在国内能长期稳定、好用的翻墙VPN很少了，包括我看到的不少VPN评论网站也是东抄抄西抄抄，很多没有时效性的内容，部分推荐的在国内并不好用，而且很多博主都身处国外，很少有在国内的使用体验，尤其是近2年防火长城的封锁太频繁，不少以前还能用的VPN现在几乎无法使用，注意查看下文提醒避免入坑。本文根据实际的使用体验介绍各款翻墙软件VPN近期使用情况，并结合最新的使用情况持续更新，供大家参考和避坑**。本文是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网和网络安全的相关问题，如果只想快速选个科学上网软件来翻墙，直接看下方本文目录导航。
 
@@ -88,7 +90,7 @@
 
 **Windows端地址下载**：<a rel="nofollow noopener" href="https://vps007.top/download/ladder.exe" target="_blank"> Windows 端</a>
 
-**购买页面 **：<a rel="nofollow noopener" href="https://vps007.top/index.html#purchase" target="_blank"> 购买页面，需要下载手机端后用手机端扫码登录网页进行购买（当然也可以直接在手机端进行购买，不过网页端经常时不时会有些优惠哦） </a>
+**购买页面 **：<a rel="nofollow noopener" href="https://vps007.top/index.html#purchase" target="_blank"> 购买页面 </a>，需要下载手机端后用手机端扫码登录网页进行购买（当然也可以直接在手机端进行购买，不过网页端经常时不时会有些优惠哦） 目前价格是大概一天一块钱，年票的话更便宜。这个价格不限流量真的是良心价啦。
 
 
 
